@@ -1,0 +1,6 @@
+Anti-Money Laundering (AML) Guidelines
+
+Transactions exceeding $10,000 must be monitored and reported.
+Suspicious activity includes unusual transaction patterns, rapid fund movement, and transactions involving high-risk jurisdictions.
+
+All suspicious activities must be escalated to the compliance team within 24 hours.

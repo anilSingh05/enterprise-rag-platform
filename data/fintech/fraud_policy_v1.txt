@@ -1,0 +1,8 @@
+Fraud Detection Policy
+
+A transaction should be flagged if:
+- It deviates significantly from customer behavior
+- Originates from a blacklisted IP
+- Uses a compromised device
+
+Flagged transactions must be reviewed before settlement.

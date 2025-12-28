@@ -1,0 +1,10 @@
+Know Your Customer (KYC) Policy
+
+All customers must complete identity verification before account activation.
+Required documents include:
+- Government-issued ID
+- Proof of address
+- Date of birth verification
+
+Enhanced due diligence is required for high-risk customers, including politically exposed persons (PEPs).
+Failure to complete KYC within 30 days will result in account suspension.
